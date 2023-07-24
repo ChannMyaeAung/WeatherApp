@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  background-image: url("images/weather-bg.jpg");
+  background-image: url("../../public/images/weather-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: black;

@@ -6,7 +6,7 @@ const weather = () => {
   /* when loading the page, automatically focus on the input. */
   window.onload = () => {
     city.focus();
-    document.body.style.background = "images/weather-bg.jpg";
+    document.body.style.background = "/images/weather-bg.jpg";
   };
 
   const error = document.querySelector("[data-error]");
